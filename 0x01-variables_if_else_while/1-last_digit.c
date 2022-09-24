@@ -7,7 +7,6 @@
 
 
 /* Function main to get the last digit of a given number */
-
 int main(void)
 {
 	int n, digit;

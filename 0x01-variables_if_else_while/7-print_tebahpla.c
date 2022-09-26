@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /** Program to print alphabet in reverse order */
-int main()
+int main(void) /*Printing alphabet in reverse */
 {
 	char ch;
 
